@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>FR-自動化報價單系統</title>
+        <item>
+            <title>2.0.14</title>
+            <pubDate>Tue, 06 Oct 2026 04:33:37 +0800</pubDate>
+            <sparkle:version>2.0.14</sparkle:version>
+            <sparkle:shortVersionString>2.0.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# FR-自動化報價單系統 2.0.14
+
+此版本加入 Sparkle 更新功能。從 2.0.12 升級時需手動安裝一次；後續版本可在程式內使用「檢查更新」。
+]]></description>
+            <enclosure url="https://github.com/EVSDELAT/fr-quotify-updates/releases/download/v2.0.14/FR-Quotify-2.0.14-arm64.zip" length="137739625" type="application/octet-stream" sparkle:edSignature="6G2vxiNMqrcfoQ3+gYc0talYUcIVo34lHnlDMNis0qZT1TiQTc7x8zNIf+9JYO7jINYwa9/W2PQPHePlPgRcDg=="/>
+        </item>
+    </channel>
+</rss>
